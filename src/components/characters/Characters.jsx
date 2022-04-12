@@ -8,6 +8,7 @@ const Characters = () => {
 
   const handleClick = () => {
     setDarkMode(!darkMode);
+    //test
   }
 
 
