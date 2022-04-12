@@ -7,7 +7,7 @@ function App() {
     <div className="App">
       <Characters />
     </div>
-    ///Test
+    ///Test2
   );
 }
 
